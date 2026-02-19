@@ -1,4 +1,4 @@
-module github.com/openziti/secretstream
+module github.com/hanzozt/secretstream
 
 go 1.24.0
 
